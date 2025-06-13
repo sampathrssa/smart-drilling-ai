@@ -1,0 +1,22 @@
+# Ignore Python venv
+.venv/
+
+# Ignore node_modules (in case mixed projects)
+node_modules/
+
+# Ignore local data (raw PDF files, extracted files)
+data/
+
+# Ignore cache files
+__pycache__/
+
+# Ignore Git
+.git/
+.gitignore
+
+# Ignore VSCode and OS files
+.vscode/
+.DS_Store
+
+# Optional: ignore logs
+*.log

@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "smart-drilling-ai-hackathon",
+    "hackathon": "smart-drilling-ai-hackathon"
+  },
+  "targets": {},
+  "etags": {}
+}
