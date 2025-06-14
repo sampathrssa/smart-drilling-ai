@@ -1,11 +1,13 @@
 # 🚀 Smart Drilling Incident Investigator AI 
 
-Team Members: Submission by : 
-
-**Murugadass Krishnan** : https://www.linkedin.com/in/murugadass-krishnan-694ba57/
-**Sampath Ramanujam**   : https://www.linkedin.com/in/sampath-ramanujam-4842402/
 
 An AI-powered safety analysis platform designed for offshore oil & gas safety, built for the Google Cloud AI-in-Action Hackathon.
+
+Team Members | Submission by : 
+
+**Murugadass Krishnan** : https://www.linkedin.com/in/murugadass-krishnan-694ba57/
+
+**Sampath Ramanujam**   : https://www.linkedin.com/in/sampath-ramanujam-4842402/
 
 ---
 
