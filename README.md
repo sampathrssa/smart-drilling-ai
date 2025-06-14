@@ -1,4 +1,9 @@
-# 🚀 Smart Drilling Incident Investigator AI
+# 🚀 Smart Drilling Incident Investigator AI 
+
+Team Members: Submission by : 
+
+**Murugadass Krishnan** : https://www.linkedin.com/in/murugadass-krishnan-694ba57/
+**Sampath Ramanujam**   : https://www.linkedin.com/in/sampath-ramanujam-4842402/
 
 An AI-powered safety analysis platform designed for offshore oil & gas safety, built for the Google Cloud AI-in-Action Hackathon.
 
@@ -7,7 +12,7 @@ An AI-powered safety analysis platform designed for offshore oil & gas safety, b
 ## 🌐 Live Deployment
 
 - **Frontend (Firebase Hosting):** [https://smart-drilling-ai-hackathon.web.app](https://smart-drilling-ai-hackathon.web.app)
-- **Backend (Cloud Run API):** [Your Cloud Run URL here]
+- **Backend (Cloud Run API):** (https://drilling-ai-backend-350279140213.us-central1.run.app)
 
 ---
 
@@ -21,6 +26,11 @@ Helps drilling engineers quickly analyze past safety incidents by:
 - Oil & Gas domain-specific safety guidance
 
 ---
+
+**Project Summary**
+
+The Smart Drilling Incident Investigator AI is an end-to-end Retrieval-Augmented Generation (RAG) platform that empowers oil & gas safety engineers to analyze offshore drilling incident reports. The solution uses multiple Google Cloud tools integrated with MongoDB Atlas Vector Search to enable real-time semantic search and AI-powered safety recommendations.
+
 
 ## 🛠️ Technologies Used
 
@@ -45,7 +55,8 @@ Helps drilling engineers quickly analyze past safety incidents by:
 ## 🔬 Dataset
 
 - Public BSEE Safety Alerts dataset (US Bureau of Safety and Environmental Enforcement)
-
+https://www.bsee.gov/guidance-and-regulations/guidance/safety-alerts-program
+https://www.bsee.gov/resources-tools/incident-reporting
 ---
 
 ## 🔄 Full Pipeline
