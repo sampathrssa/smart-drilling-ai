@@ -23,8 +23,20 @@ function App() {
     return (
         <div className="container">
             <div className="left-panel">
-                <img src="/offshore_rig.png" alt="Offshore Rig" className="rig-image" />
+                <div className="left-content">
+                    <img src="/offshore_rig.png" alt="Offshore Rig" className="rig-image" />
+                    <div className="example-queries">
+                        <h3>Example Queries</h3>
+                        <ul>
+                            <li>Show me recent gas leaks</li>
+                            <li>Any incidents related to nitrogen cylinder failure?</li>
+                            <li>Recent equipment failure injuries</li>
+                            <li>Explosion safety incidents offshore</li>
+                        </ul>
+                    </div>
+                </div>
             </div>
+
 
             <div className="right-panel">
                 <h1>Smart Drilling Incident Investigator</h1>
